@@ -31,6 +31,6 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nestjs,nodejs,mongodb,postgres,azure,aws,docker,kubernetes,helm,php,kafka,gitlab,argocd,terraform" />
+        <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nestjs,nodejs,mongodb,postgres,azure,aws,docker,kubernetes,php,kafka,gitlab,terraform" />
     </a>
 </p>
