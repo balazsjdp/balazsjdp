@@ -7,6 +7,9 @@
 <h3 align="center">A passionate full stack engineer from Earth - Hungary</h3>
 
 <br/>
+<div align="center">
+  <img align="center" src="./christmas.gif" />
+</div>
 
 <div align="center">
   <table>
