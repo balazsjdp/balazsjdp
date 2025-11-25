@@ -7,7 +7,7 @@
 <h3 align="center">A passionate full stack engineer from Earth - Hungary</h3>
 
 <br/>
-<div align="center">
+<div style="padding-bottom: 20px" align="center">
   <a target="_blank" href="https://github.com/balazsjdp/Christmas_Tree_Ts"><img align="center" src="./christmas.gif" /></a>
 </div>
 
