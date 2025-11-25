@@ -7,9 +7,7 @@
 <h3 align="center">A passionate full stack engineer from Earth - Hungary</h3>
 
 <br/>
-<div>
-  <iframe src="https://balazshorvath.hu/christmas/" title="Merry Christmas"></iframe>
-</div>
+
 <div align="center">
   <table>
     <tr>
