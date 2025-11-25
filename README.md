@@ -11,7 +11,7 @@
   <a target="_blank" href="https://github.com/balazsjdp/Christmas_Tree_Ts"><img align="center" src="./christmas.gif" /></a>
 </div>
 
-<div align="center">
+<div style="margin-top: 2rem" align="center">
   <table>
     <tr>
       <td>
