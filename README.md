@@ -8,7 +8,7 @@
 
 <br/>
 <div align="center">
-  <a target="_blank" href="https://github.com/balazsjdp/Christmas_Tree_Ts"><img align="center" src="./christmas.gif" /></a>
+  <a target="_blank" href="https://github.com/balazsjdp/Christmas_Tree_Ts"><img align="center" src="./christmas2.gif" /></a>
 </div>
 <br/>
 
